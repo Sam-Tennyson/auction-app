@@ -22,7 +22,7 @@ const Page = () => {
             flexGrow: 1,
             flexDirection: "column",
             rowGap: 15,
-            padding: 25,
+            padding: 20,
           }}
         >
           <Home />

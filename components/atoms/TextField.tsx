@@ -20,7 +20,7 @@ interface ITextField {
     touched: any;
     setFieldTouched: (name: string, value?: boolean) => void;
   };
-  onRightIconClick: () => void;
+  onRightIconClick?: () => void;
   leftIcon: any;
   rightIcon: any;
   secureTextEntry?: boolean;

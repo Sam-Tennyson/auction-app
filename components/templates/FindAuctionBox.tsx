@@ -47,6 +47,7 @@ const FindAuctionBox = () => {
           shadowRadius: 10,
           borderColor: Colors[theme].brandColor,
           borderRadius: 10,
+          // marginVertical: 25,
         },
       ]}
     >
